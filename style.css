@@ -1,0 +1,27 @@
+
+.heading{
+    width: 100%;
+    text-align: left;
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    border: 1px solid white;
+    float: right;
+}
+
+.big_image{
+    width: 100%;
+}
+
+#start{
+    font-size: 22px;
+}
+
+#status{
+    font-size:22px ;
+    background-color: aliceblue;
+}
